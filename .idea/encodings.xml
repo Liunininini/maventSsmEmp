@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/controller/EmpController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/controller/EmpController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/DepMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/DepMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/EmpMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/EmpMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/EmpWelfareMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/EmpWelfareMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/IDepMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/IDepMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/IEmpMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/IEmpMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/IEmpWelfareMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/IEmpWelfareMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/ISalaryMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/ISalaryMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/IWelfareMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/IWelfareMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/Mapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/Mapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/SalaryMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/SalaryMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/WelfareMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mapper/WelfareMapper.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/Dep.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/Dep.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/Emp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/Emp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/EmpWelfare.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/EmpWelfare.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/PageBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/PageBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/Salary.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/Salary.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/Welfare.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/po/Welfare.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/IDepService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/IDepService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/IEmpService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/IEmpService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/IWelfareService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/IWelfareService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/impl/DepServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/impl/DepServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/impl/EmpServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/impl/EmpServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/impl/WelfareServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/service/impl/WelfareServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/util/AjAxUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/util/AjAxUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/util/BizServiceUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/util/BizServiceUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/util/DaoServiceUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/util/DaoServiceUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/easyui" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/emp.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/emp.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/stulist.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/uppic" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
